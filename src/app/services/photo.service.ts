@@ -101,7 +101,7 @@ export class PhotoService {
       return {
         filepath: fileName,
         webviewPath: cameraPhoto.webPath
-      }
+      };
     }
   }
 
